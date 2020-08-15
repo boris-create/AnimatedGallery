@@ -1,9 +1,7 @@
 
 # Project Title
 
-...Title here...
-
-Simple overview of use/purpose.
+Animated Image Gallery
 
 ## Description
 
@@ -30,7 +28,7 @@ Any advise for common problems or issues.
 Contributors names and contact info
 
 Cody Hobbs
-ex. [@-username-](-site-) [coming soon]
+ex. [-username-](-site-) [coming soon]
 
 ## Version History
 
@@ -38,14 +36,14 @@ ex. [@-username-](-site-) [coming soon]
     -   Initial Release
 
 ### TODO
-- Next steps
-- Features planned
+- Add my own photos (these were used as a test)
+- Features planned - open to ideas
 - Known bugs (N/A)
 
 ### Contact
 - boriscreate@gmail.com (could use a mentor)
-- Google Group/mailing list (if applicable)
-- IRC or Slack (if applicable)
+- Google Group/mailing list (N/A)
+- IRC or Slack (N/A)
 
 ## License
 
@@ -54,8 +52,6 @@ This project is licensed under the [GNU GENERAL PUBLIC LICENSE V3.0] License - s
 ## Acknowledgments
 
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
-[![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer)
-
 
 Inspiration, code snippets, etc.
 -for this readme.md-
