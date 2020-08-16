@@ -16,10 +16,10 @@ Animated Image Gallery
 
 ## Authors
 
-Cody Hobbs – boriscreate@gmail.com
-Instagram at <a href="https://www.instagram.com/codyhobbs_/" target="_blank">`@codyhobbs_`</a>
-Twitter at <a href="https://twitter.com/GrizzledAlky" target="_blank">`@GrizzledAlky`</a>
-(could use a mentor, or small collabs)
+- Cody Hobbs – boriscreate@gmail.com
+- Instagram at <a href="https://www.instagram.com/codyhobbs_/" target="_blank">`@codyhobbs_`</a>
+- Twitter at <a href="https://twitter.com/GrizzledAlky" target="_blank">`@GrizzledAlky`</a>
+- (could use a mentor, or small collabs)
 
 ## License
 
