@@ -5,7 +5,7 @@ Animated Image Gallery
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+-Add an in-depth paragraph about your project and overview of use.-
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ Any advise for common problems or issues.
 Contributors names and contact info
 
 Cody Hobbs
-ex. [-username-](-site-) [coming soon]
+-[username](site) [coming soon]-
 
 ## Version History
 
@@ -41,16 +41,16 @@ ex. [-username-](-site-) [coming soon]
 - Known bugs (N/A)
 
 ### Contact
-- boriscreate@gmail.com (could use a mentor)
-- Google Group/mailing list (N/A)
-- IRC or Slack (N/A)
+- boriscreate@gmail.com (could use a mentor, or small collabs)
+- @codyhobbs_ (instgram)
+- other places (soon)
 
 ## License
 
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE V3.0] License - see the LICENSE.md file for details
 
 ## Acknowledgments
-
+(test badge)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
 
 Inspiration, code snippets, etc.
