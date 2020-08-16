@@ -28,7 +28,7 @@ Any advise for common problems or issues.
 Contributors names and contact info
 
 Cody Hobbs
--[username](site) [coming soon]-
+[@codyhobbs_](instgram)
 
 ## Version History
 
@@ -42,8 +42,8 @@ Cody Hobbs
 
 ### Contact
 - boriscreate@gmail.com (could use a mentor, or small collabs)
-- @codyhobbs_ (instgram)
-- other places (soon)
+- website (N/A
+- other places (N/A)
 
 ## License
 
