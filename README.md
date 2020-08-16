@@ -7,55 +7,32 @@ Animated Image Gallery
 
 -Add an in-depth paragraph about your project and overview of use.-
 
-## Getting Started
-
-### Dependencies
-
--   Windows 10, an IDE or text editor such as: Atom, IntelliJ, Visual Studio...
-
-### Installing
-
--   Nothing to install
-
-## Help
-
-Any advise for common problems or issues.
-
-    command to run if program contains helper info
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
 ## Authors
 
-Contributors names and contact info
-
-Cody Hobbs
-[@codyhobbs_](instgram)
-
-## Version History
-
--   0.1
-    -   Initial Release
-
-### TODO
-- Add my own photos (these were used as a test)
-- Features planned - open to ideas
-- Known bugs (N/A)
-
-### Contact
-- boriscreate@gmail.com (could use a mentor, or small collabs)
-- website (N/A
-- other places (N/A)
+Cody Hobbs – boriscreate@gmail.com
+Instagram at <a href="https://www.instagram.com/codyhobbs_/" target="_blank">`@codyhobbs_`</a>
+Twitter at <a href="https://twitter.com/GrizzledAlky" target="_blank">`@GrizzledAlky`</a>
+(could use a mentor, or small collabs)
 
 ## License
 
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE V3.0] License - see the LICENSE.md file for details
 
 ## Acknowledgments
+
 (test badge)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
 
-Inspiration, code snippets, etc.
--for this readme.md-
+Inspiration, code snippets, etc..
 
+for this readme.md
 -  [awesome-readme](https://github.com/matiassingers/awesome-readme)
 -  [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 -  [dbader](https://github.com/dbader/readme-template)
